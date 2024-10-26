@@ -16,7 +16,7 @@ public class AQ1 {
         }
         return (int) number;
     }
-
+//Comment
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int sum = 0;
